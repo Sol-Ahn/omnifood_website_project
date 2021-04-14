@@ -1,6 +1,6 @@
 # omnifood_website_project
 <h2>[Udemy]Build Responsive Real World Websites with HTML5 and CSS3 by Jonas Schmedtmann   </h2>
-<p>Section 5: The killer website project</p>
+<h3>Section 5: The killer website project</h3>
 <ul>
   <li>header</li>
   <li>features</li>
